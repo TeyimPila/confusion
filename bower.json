@@ -1,0 +1,30 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "Pila <teyim.pila@aun.edu.ng>"
+  ],
+  "description": "A website for the confusion restaurant",
+  "main": "index.html",
+  "keywords": [
+    "confusion",
+    "restaurant",
+    "delicacies",
+    "fusion",
+    "restaurant",
+    "confusion",
+    "restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
